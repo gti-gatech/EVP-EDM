@@ -3,5 +3,5 @@ The Pullover Model tutorial is an indepth guide to modeling a custom driver beha
 
 Section 8 of the tutorial explains the design process of a pullover model implementation in the proximtiy of Emergency Vehicles (ERVs).
 
-The C++ code and the required libraries have all been included in this repo.The isntructions to compile and build the model has sldo been explained in the tutorial. 
+The C++ code and the required libraries have all been included in this repo. The instructions to compile and build the model has also been explained in the tutorial. 
 
